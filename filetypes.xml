@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="pre-push" type="PLAIN_TEXT" />
       <mapping pattern="AvsluttModel" type="PLAIN_TEXT" />
+      <mapping pattern="HendelsesloggForm" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
