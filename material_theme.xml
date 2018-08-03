@@ -1,10 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.2-2018.1" />
+    <option name="version" value="2.7.0" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="highlightColor" value="80cbc4" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="accentColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
+    <option name="accentColor" value="84ffff" />
     <option name="userId" value="3cb1e36c:164170e4f43:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="overrideAccentColor" value="true" />
   </component>
 </application>
